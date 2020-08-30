@@ -116,7 +116,7 @@ Ice-box:
 These are tasks that you should complete at some point but aren't a problem or hurdle as for right now and won't be for a long time. Or at all.
 
 
- README file clearly documents the purpose of the project as a problem statement
+#   README file clearly documents the purpose of the project as a problem statement
  README file clearly documents the target end user for this program.
 
 Git repository has AT LEAST 30 github commits with VERY clear messages
