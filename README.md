@@ -1,4 +1,4 @@
-# Capstone: Energyflow
+# Capstone: EnergyFlow
 
 This application is for useres of all ages and helps the target user group with basic information abou the Eastern philiosopy of energy flow within the human body.
 
