@@ -12,11 +12,11 @@ Button pictures that direct to information
 ## Technologies Used 
 Agular 10, css, HTML, Typscript
 
-## Approach taken
+## Approach Taken
 Routes that lead to information about the 7 energy centers of the human body
 Route to a general information
 
-## A link to application
+## A link to Application
 https://github.com/ty-vin/Capstone
 
 
@@ -30,12 +30,18 @@ N/A
 ## Problems Encountered but Solved
 
 
-## Post MVP section where you describe all of the future functionality you plan and want to have in your project in order to progress your skill set
+## Post MVP Section
+ - where you describe all of the future functionality you plan and want to have in your project in order to progress your skill set
+
 Add mutiple pages
 Create an email capture page
 
 ## Project Board
 Located in github 'Projects'
+
+## Wire Frame
+
+Locatesd in Wire Frame folder
 
 
 ## ---------- -------------------------------
