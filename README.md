@@ -7,6 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## MVP - Minimum Viable Product
 Create a page that has pictures and information about energy flow system of the human body
+
 Button pictures that direct to information
 
 ## Technologies Used 
@@ -14,6 +15,7 @@ Agular 10, css, HTML, Typscript
 
 ## Approach Taken
 Routes that lead to information about the 7 energy centers of the human body
+
 Route to a general information
 
 ## A link to Application
